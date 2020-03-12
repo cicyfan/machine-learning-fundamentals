@@ -1,3 +1,3 @@
 ## Machine Leanring Fundamentals
 
-Implmenting Machine Learning models from scratch. 
+Implementing Machine Learning models from scratch. 
